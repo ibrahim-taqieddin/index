@@ -1,0 +1,197 @@
+* {padding:0;
+   margin: 0;}
+
+ header {position: relative; 
+     background-color: rgba(184, 127, 15, 0.932); width: 100%;height: 100px;}
+
+ul {display: inline-block;
+    position: absolute; left: 400px;}
+
+ul li{margin: 25px;
+     font-size: 22px;
+     list-style: none;
+     display: inline-block}
+
+
+.sign{font-size: 25px;
+     display: inline;
+     position: absolute;
+    top:20px; right: 10px;}
+
+.sec1 {background-size: cover;
+       background-image: url(https://st2.depositphotos.com/1013886/5744/i/450/depositphotos_57444211-stock-photo-healthy-food-background.jpg);
+       position: relative;
+       height: 50vh}
+
+
+
+main .sec1 .text{color: aliceblue;
+                 top: 50%; left: 35%;
+                position: absolute;}
+
+
+
+/* .text1{color: rgb(250, 250, 250);
+       font-size: 20px;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       text-align: justify;
+       position: absolute;}  */
+
+ .sec2{ padding: 50px 0;
+        text-align: center;
+        }       
+
+
+.description{text-align: center;
+             }
+
+    
+.box1{display: inline-block;
+      width: 200px;
+      border: 10px solid green;
+      padding:25px;
+      margin-left: 25px;
+      margin-top: 25px;
+      text-align: left;
+      }             
+
+
+/* .box2{width: 200px;
+      border: 10px solid green;
+      padding: 25px;
+     }             
+    
+.box3{width: 200px;
+      border: 10px solid green;
+      padding: 25px; */
+                 
+
+
+
+.sec3{background-size: cover;
+    vertical-align: middle;
+    text-align: center;
+    background-image: url(https://previews.123rf.com/images/romastudio/romastudio1603/romastudio160300225/54088694-healthy-food-background-studio-photo-of-different-fruits-and-vegetables-on-white-wooden-table-high-r.jpg);
+    position: relative;
+    height: 50vh}
+
+ 
+.sec4 {text-align: center;
+    padding: 35px;
+    margin-bottom: 200px;
+    display: block;
+    position: relative;
+
+}
+.img4{
+    position: absolute; right: 300px 
+}
+
+.desc1{
+    position: absolute; left: 300px;
+    font-size: large;
+    font-style: italic;
+    text-align: justify;
+    color: brown;
+}
+
+.sec5{text-align: center;
+    padding: 35px;
+    margin: 50px;
+    display: block;
+    position: relative;
+}
+
+.img5{ 
+    position: absolute; left: 300px}  
+
+
+.desc2{
+    position: absolute; right:200px;
+    font-size: large;
+    font-style: italic;
+    text-align: justify;
+    color: brown;}
+
+    
+.sec6{
+    text-align: center;
+}
+
+.review{
+    display: inline-block;
+}
+
+
+
+.blog{width: 100%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+.blog1{
+    margin: 100px;
+    display: inline-block;
+}
+
+.blog2{margin: 100px;
+    display: inline-block;
+}
+
+.newsletter{font-size: x-large;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+/* -------------------------------------contact page--------------------------------- */
+
+
+.fo1{padding: 50px 0px;
+   text-align: center;
+   }     
+    
+.img12{display: inline-block;
+    width:400px;
+    right: 0; bottom:25%;
+}    
+
+.formo{
+    text-align: left;
+    display: inline-block;
+    width: 300;
+    text-transform: capitalize;
+    /* position: absolute; left: 40; bottom: 0%; */
+}
+
+table{border: 10px;
+    border-width: 50px;
+    text-align: justify;
+    border-collapse: collapse;
+    margin: 0px auto;
+    background-color: khaki;}
+
+
+
+th {padding:7px;
+color: brown;}
+
+td {padding: 7px;
+color: blue;}
+
+caption{
+    color: red ;
+    margin-bottom: 20px;}
+
+
+.information{padding: 30px;
+    text-align: center;}
+
+.information .info {margin-right: 30px;
+                    display: inline-block;
+                    color: brown;}
+
+.place {
+    color: brown;
+}
